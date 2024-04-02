@@ -1,5 +1,5 @@
 import TodoItem from "./item.js";
-//items.js에서 todoitem을 가져온다. 
+
 // To-Do 항목 관리 모듈 정의
 const todoList = {
   items: [], // To-Do 항목 리스트
